@@ -1,7 +1,9 @@
 ESP8266 SPI Driver
 ========
 
-Some general information about the SPI hardware and my investigations into the control registers are on http://d.av.id.au/blog/ for those who want a deeper insight into how the code works.
+Some general information about the SPI hardware and my investigations into the
+control registers are on http://d.av.id.au/blog/ for those who want a deeper
+insight into how the code works.
 
 HSPI Hardware Pins
 ========
